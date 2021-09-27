@@ -79,7 +79,7 @@ tr:nth-child(even){
 }
 
 tr:hover{
-  background-color: #7e082525;
+  background-color: rgba(126, 8, 37, .25);
 }
 
 .colhead{
